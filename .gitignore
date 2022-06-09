@@ -1,4 +1,5 @@
 /analyzer
-/data/pickle
-/data/results
-/data/dataset
+/.gitignore
+/notebook/train.ipynb
+/data/*
+/.vscode
